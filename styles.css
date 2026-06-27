@@ -1,0 +1,7 @@
+body { margin: 0; font-family: Arial, sans-serif; color: #111827; background: #f9fafb; }
+.container { width: min(1100px, 92%); margin: 0 auto; }
+.hero { background: linear-gradient(135deg, #111827, #374151); color: white; padding: 6rem 0; text-align: center; }
+.btn { display: inline-block; margin-top: 1rem; padding: 0.9rem 1.3rem; background: #f59e0b; color: #111827; text-decoration: none; border-radius: 10px; font-weight: bold; }
+.products { padding: 4rem 0; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; }
+.card { background: white; padding: 1.25rem; border-radius: 14px; box-shadow: 0 8px 20px rgba(0,0,0,0.06); }
